@@ -1,3 +1,4 @@
 #Display the output
 
-print ("Python test file")
+print ("Python test file creation")
+print "Python test file commit test")
